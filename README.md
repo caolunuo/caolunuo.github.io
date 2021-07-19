@@ -32,10 +32,9 @@
     <div class="mdui-card rin-card">
         <div class="rin-card-title">AyagawaSeirin!</div>
         <div class="rin-card-part" id="introduce">
-            <div class="rin-card-content mdui-typo">你好，这里是綾川星凛，普通的女生一枚~<br>
+            <div class="rin-card-content mdui-typo">你好，这里是曹宇<br>
                 坐标扬州，是替身使者。对信息技术以及ACG文化感兴趣。<br>
                 很多昵称：曹鲁诺曹巴拿<br>
-                更多关于咱的信息请<a href="https://qwq.best/other/7.html" target="_blank" class="">点击这里</a>。<br>
                 How lucky to meet you!<br>
             </div>
         </div>
@@ -278,3 +277,4 @@
 <script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/js/main.js"></script>
 </body>
 </html>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=496902073&auto=1&height=66"></iframe>
