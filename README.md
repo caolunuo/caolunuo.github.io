@@ -8,7 +8,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="utf-8">
-    <title>皮皮凛凛姬 | 绫川星凛</title>
+    <title>曹鲁诺 曹巴拿</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/mdui/css/mdui.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/css/main.css">
@@ -30,7 +30,7 @@
 <div id="rin-bg"></div>
 <main id="rin-main">
     <div class="mdui-card rin-card">
-        <div class="rin-card-title">AyagawaSeirin!</div>
+        <div class="rin-card-title">挥洒的汗水才是青春的光辉</div>
         <div class="rin-card-part" id="introduce">
             <div class="rin-card-content mdui-typo">你好，这里是曹宇<br>
                 坐标中国，是替身使者，对忍术以及ACG文化感兴趣。<br>
